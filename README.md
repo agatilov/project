@@ -1,2 +1,2 @@
-# ptoject
+# project
 first project
